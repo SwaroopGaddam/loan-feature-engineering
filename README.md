@@ -41,7 +41,8 @@ Financial institutions rely on various factors to assess a applicant's ability t
    data["Able_to_pay_EMI"] = (data["TotalIncome"] * 0.3 > data["EMI"])
    
 ### Exploratory Data Analysis (EDA)
-   - Visualized Loan Status distributions.
+   - Visualized Loan Status distributions using countplot, boxplot, histplots and crosstab function.
    - Analyzed the impact of Income vs Loan Status.
-   - Hypothesis testing is performed to check the significance between Able_to_pay_EMI and Loan Status.
+   - Hypothesis testing is performed to check the significance between given fields and the target column: Loan Status.
+   - Finally created a new feature **Able_to_pay_EMI** to check the combined impact of few impacting fields on Loan Status.
 
