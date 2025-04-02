@@ -18,13 +18,19 @@ Financial institutions rely on various factors to assess a applicant's ability t
    cd loan-feature-engineering
 
 
-3. **Install dependencies**
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
-3. **Run Feature Engineering**
-   ```bash
-   python src/feature_engineering.py
+3. **Run Feature Engineering**  
+
+   This repository includes a **Colab Notebook** that directly loads the raw data from this repo and performs feature engineering.  
+
+      #### **How to Run:**  
+      1️. Open the **Colab notebook**: [Loan Feature Engineering Notebook](https://colab.research.google.com/github/SwaroopGaddam/loan-feature-engineering/blob/main/loan_feature_analysis.ipynb)  
+      2. Ensure raw data is available in your repository ([Dataset Link](https://raw.githubusercontent.com/SwaroopGaddam/loan-feature-engineering/refs/heads/main/Cleaned_loan_data.csv))  
+
+      ✅ No manual script execution required! The notebook handles everything for you. 
 
 4. **Feature Engineering Logic**
 
