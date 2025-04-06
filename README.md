@@ -52,3 +52,6 @@ Financial institutions rely on various factors to assess a applicant's ability t
    - Hypothesis testing is performed to check the significance between given fields and the target column: Loan Status.
    - Finally created a new feature **Able_to_pay_EMI** to check the combined impact of few impacting fields on Loan Status.
 
+Made by Swaroop Gaddam
+📧 swaroop.gaddam01@gmail.com
+🌐 LinkedIn – swaroop-gaddam (https://www.linkedin.com/in/swaroop-gaddam/)
